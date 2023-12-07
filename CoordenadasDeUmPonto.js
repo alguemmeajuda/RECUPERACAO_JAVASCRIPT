@@ -4,7 +4,7 @@ function ponto(){
     y=-2.2;
     
     if (x>0&&y<0){
-        p=Q4;
+        p="Q4";
    }
  alert(p);
 }
