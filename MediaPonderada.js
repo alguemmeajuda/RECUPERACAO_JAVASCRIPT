@@ -1,4 +1,4 @@
-function mediaponderada (){
+function mediaponderada(){
     
     var a=8.0;
     var b=9.0;
